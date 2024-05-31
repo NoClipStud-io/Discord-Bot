@@ -13,7 +13,7 @@ click @ https://files.pythonhosted.org/packages/c2/f1/df59e28c642d583f7dacffb1e0
 clikit==0.6.2
 crashtest==0.3.1
 cryptography==37.0.4
-debugpy @ https://files.pythonhosted.org/packages/d2/e3/d0531ee73216d553d717bf4ac51dff297f89054619fa69db61eef028a07f/debugpy-1.6.3-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl#sha256=daadab4403427abd090eccb38d8901afd8b393e01fd243048fab3f1d7132abb4
+#debugpy @ https://files.pythonhosted.org/packages/d2/e3/d0531ee73216d553d717bf4ac51dff297f89054619fa69db61eef028a07f/debugpy-1.6.3-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl#sha256=daadab4403427abd090eccb38d8901afd8b393e01fd243048fab3f1d7132abb4
 decorator==4.4.2
 discord @ https://files.pythonhosted.org/packages/11/91/75a2371aeff949e65b3ce6abfb0180a4adfa048097bca6c32205638e0f3b/discord-2.0.0-py3-none-any.whl#sha256=ffc714978d338d2b506e4924d66d7d02a649378a46743e2bdf42ef1bd43d1a67
 discord.py @ https://files.pythonhosted.org/packages/a1/ce/9c9a65980edfd088837e5f1c8fd647b56c49facd4be0d497206711343535/discord.py-2.0.1-py3-none-any.whl#sha256=aeb186348bf011708b085b2715cf92bbb72c692eb4f59c4c0b488130cc4c4b7e
