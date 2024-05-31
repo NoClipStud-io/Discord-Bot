@@ -81,7 +81,7 @@ urllib3 @ https://files.pythonhosted.org/packages/6f/de/5be2e3eed8426f871b170663
 virtualenv==20.16.2
 wcwidth==0.2.5
 webencodings==0.5.1
-websockets @ https://files.pythonhosted.org/packages/17/27/aa5a63f48f0a50d01c1d8055391e74564877e486b50f81a0e41240949c2f/websockets-10.3-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl#sha256=6075fd24df23133c1b078e08a9b04a3bc40b31a8def4ee0b9f2c8865acce913e
+#websockets @ https://files.pythonhosted.org/packages/17/27/aa5a63f48f0a50d01c1d8055391e74564877e486b50f81a0e41240949c2f/websockets-10.3-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl#sha256=6075fd24df23133c1b078e08a9b04a3bc40b31a8def4ee0b9f2c8865acce913e
 Werkzeug @ https://files.pythonhosted.org/packages/c8/27/be6ddbcf60115305205de79c29004a0c6bc53cec814f733467b1bb89386d/Werkzeug-2.2.2-py3-none-any.whl#sha256=f979ab81f58d7318e064e99c4506445d60135ac5cd2e177a2de0089bfd4c9bd5
 whatthepatch @ https://files.pythonhosted.org/packages/fe/31/bf06fa31436e8118447bed0a428a1279d1164ebdc2d8866666033ab03ca8/whatthepatch-1.0.2-py2.py3-none-any.whl#sha256=6d920d6c328eda006f12ec05bc9eadb405957b18460520db195f9a21eb3336e1
 words==0.0.1
