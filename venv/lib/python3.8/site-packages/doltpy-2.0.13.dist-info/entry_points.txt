@@ -1,0 +1,4 @@
+[console_scripts]
+dolt-load=doltpy.etl:dolt_loader_main
+dolthub-load=doltpy.etl:dolthub_loader_main
+

@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: doltcli
+Version: 0.1.17
+Summary: Slim Python interface for Dolt's CLI API.
+Author: Max Hoffman
+Author-email: max@dolthub.com
+Requires-Python: >=3.6.2,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: dataclasses (>=0.6); python_version < "3.7"
