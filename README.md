@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Data Leak Search](https://play.google.com/store/apps/details?id=com.NoClipStudio.DataBaseSearch)
 
-- 👯 I’m looking to collaborate on [Cyber-Security](https://play.google.com/store/apps/details?id=com.hashsuite.droid)
+- 🚀 I’m looking to collaborate on [Cyber-Security](https://play.google.com/store/apps/details?id=com.hashsuite.droid)
 
 - 📝 I regularly write articles on [https://nvd.nist.gov/vuln](https://nvd.nist.gov/vuln)
 
