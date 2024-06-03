@@ -28,3 +28,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noclipstud-io&show_icons=true&locale=en" alt="noclipstud-io" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noclipstud-io&" alt="noclipstud-io" /></p>
+
+Currently Coding & Listening to:
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11159336621&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/11159336621)
