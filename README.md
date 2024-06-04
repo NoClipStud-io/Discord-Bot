@@ -29,6 +29,15 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noclipstud-io&" alt="noclipstud-io" /></p>
 
+<summary>📈 Stats</summary>
+<br>
+My Github Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noclipstud-io&theme=dracula) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=noclipstud-io&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=noclipstud-io&theme=dracula)
+
 Listening:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lucasjhonatan&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
