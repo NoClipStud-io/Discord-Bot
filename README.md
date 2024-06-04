@@ -3,7 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noclipstud-io&label=Profile%20views&color=0e75b6&style=flat" alt="noclipstud-io" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noclipstud-io" alt="noclipstud-io" /></a> </p>
+<a href="https://github.com/noclipstud-io">
+    <img src="https://github-stats-alpha.vercel.app/api?username=noclipstud-io&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
+
 
 - 🔭 I’m currently working on [Data Leak Search](https://play.google.com/store/apps/details?id=com.NoClipStudio.DataBaseSearch)
 
