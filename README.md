@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/noclipstud-io">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=No+Clip+Studio;Programmer+%7C+PhD+Student+%7C+Software+Engineer;AI+%7C+Cyber+Security+%7C+Games" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=No+Clip+Studio;Programmer+%7C+Student+%7C+Cyber+Security;AI+%7C+Android+%7C+Apps" alt="Typing SVG" />
 </a>
 <br/>
 
