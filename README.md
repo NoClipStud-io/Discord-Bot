@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, we are No Clip Studio</h1>
 <h3 align="center">Android Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noclipstud-io&label=Profile%20views&color=0e75b6&style=flat" alt="noclipstud-io" /> </p>
 
 <a href="https://github.com/noclipstud-io">
     <img src="https://github-stats-alpha.vercel.app/api?username=noclipstud-io&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
