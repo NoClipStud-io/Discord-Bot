@@ -1,8 +1,8 @@
 <p align="center">
-<a href="https://github.com/noclipstud-io">
+  <a href="https://github.com/noclipstud-io">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=No+Clip+Studio;Programmer+%7C+Student+%7C+Cyber+Security;+%7C+Android+%7C+Apps" alt="Typing SVG" />
-</a>
-<br/>
+  </a>
+</p>
 
 <a href="https://github.com/noclipstud-io">
     <img src="https://github-stats-alpha.vercel.app/api?username=noclipstud-io&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
