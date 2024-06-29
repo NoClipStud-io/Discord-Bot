@@ -1,3 +1,101 @@
+---
+
+# Discord Bot
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Discord.py](https://img.shields.io/badge/Discord.py-1.7.3-blue)
+
+## Description
+
+This is a Discord bot with various functionalities, including birthday management, random sorting, message clearing, and more.
+
+## Features
+
+- **Welcome and Farewell Messages**
+  - Sends welcome messages when new members join the server.
+  - Sends farewell messages when members leave the server.
+
+- **Random Sorting**
+  - `!sort` command that allows administrators to perform random sorting among server members.
+
+- **Birthday Management**
+  - `!birthday` command to register members' birthdays.
+  - Automatic notification on the member's birthday.
+
+- **Message Clearing**
+  - `!clear` command to clear all messages from a channel. (Admins only)
+
+- **Useful Links**
+  - `!links` command that shows useful links such as invites, Telegram, website, and email.
+
+- **Command Management**
+  - `!commands` command that lists all available commands.
+  - `!Help` command that provides a detailed description of each command.
+
+## Installation
+
+1. Clone this repository:
+    ```bash
+    git clone https://github.com/NoClipStud-io/Discord-Bot.git
+    cd discord-bot
+    ```
+
+2. Create a virtual environment and activate it:
+    ```bash
+    python3 -m venv venv
+    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+    ```
+
+3. Install the dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+4. Set up your environment variables:
+    - Create a `.env` file in the root of the project.
+    - Add the following variables:
+        ```env
+        DISCORD_BOT_SECRET=your_discord_token
+        bot_pass=your_sortition_password
+        ```
+
+5. Run the bot:
+    ```bash
+    python bot.py
+    ```
+
+## Commands
+
+- `!sort`: Performs a random sorting among server members. (Admins only)
+- `!clear`: Clears all messages from the current channel. (Admins only)
+- `!links`: Shows useful links for the server.
+- `!birthday`: Registers the member's birthday.
+- `!delete [user_id]`: Deletes a user's birthday record. (Admins only)
+- `!commands`: Lists all available commands.
+- `!Help`: Shows a detailed description of each command.
+
+## Technologies Used
+
+- [Python 3.8+](https://www.python.org/)
+- [SQLite](https://www.sqlite.org/index.html)
+
+## Libraries Used
+
+- [discord.py](https://discordpy.readthedocs.io/)
+- [asyncio](https://docs.python.org/3/library/asyncio.html)
+- [pytz](https://pypi.org/project/pytz/)
+- [dotenv](https://pypi.org/project/python-dotenv/)
+
+## Contributing
+
+Contributions are welcome! Feel free to open issues or submit pull requests.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
 <p align="center">
   <a href="https://github.com/noclipstud-io">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=No+Clip+Studio;Programmer+%7C+Student+%7C+Cyber+Security;+%7C+Android+%7C+Apps" alt="Typing SVG" />
