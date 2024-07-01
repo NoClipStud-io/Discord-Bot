@@ -117,9 +117,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 <br>
 My Github Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noclipstud-io&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=noclipstud-io&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=noclipstud-io&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singIebit&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=singIebit&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=singIebit&theme=dracula)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
