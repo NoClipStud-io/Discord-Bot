@@ -97,15 +97,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 <p align="center">
-  <a href="https://github.com/noclipstud-io">
+  <a href="https://github.com/singIebit">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=No+Clip+Studio;Programmer+%7C+Student+%7C+Cyber+Security;+%7C+Android+%7C+Apps" alt="Typing SVG" />
   </a>
 </p>
 
-<a href="https://github.com/noclipstud-io">
+<a href="https://github.com/singIebit">
     <img src="https://github-stats-alpha.vercel.app/api?username=noclipstud-io&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
-
 
 - 🔭 I’m currently working on [Data Leak Search](https://play.google.com/store/apps/details?id=com.NoClipStudio.DataBaseSearch)
 
@@ -119,7 +118,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 My Github Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noclipstud-io&theme=dracula) 
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=noclipstud-io&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=noclipstud-io&theme=dracula)
 
