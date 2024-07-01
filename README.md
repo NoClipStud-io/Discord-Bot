@@ -103,7 +103,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 </p>
 
 <a href="https://github.com/singIebit">
-    <img src="https://github-stats-alpha.vercel.app/api?username=noclipstud-io&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+    <img src="https://github-stats-alpha.vercel.app/api?username=singIebit&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 
 - 🔭 I’m currently working on [Data Leak Search](https://play.google.com/store/apps/details?id=com.NoClipStudio.DataBaseSearch)
